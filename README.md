@@ -13,7 +13,7 @@ img
 ### fftSuite()
 Provides 3 frequency decompositions of an input signal: FFT, spectrogram, and instantaneous frequency.
 
-img
+![](https://github.com/davhbrown/matlab-utils/blob/master/img/splat.png "fftSuite output")
 
 
 ### freqShift()
@@ -21,12 +21,12 @@ Shifts the frequency spectrum of a signal using its analytic signal derived form
 
 img
 
-###### Further reading: https://flylib.com/books/en/2.729.1/why_care_about_the_hilbert_transform_.html
+###### [Further reading](https://flylib.com/books/en/2.729.1/why_care_about_the_hilbert_transform_.html "https://flylib.com/books/en/2.729.1/why_care_about_the_hilbert_transform_.html")
 
 
 ### hilbertDecomp()
 Decomposes a signal into its envelope and fine structure, outputting intstantaneous amplitude, phase, &amp; frequency components using the Hilbert transform.
 
-img
+![](https://github.com/davhbrown/matlab-utils/blob/master/img/sam_5000_100.png "hilbertDecomp output")
 
 ###### Inspired by: Smith, Delgutte, Oxenham (2002) Chimaeric sounds reveal dichotomies in auditory perception. _Nature_ 416:87.
