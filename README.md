@@ -1,12 +1,14 @@
 # matlab-utils
 Miscellaneous MATLAB functions &amp; scripts
 
+
 ## clr2blind
 Uses 8 colors more differentiable by a colorblind person.
 
 img
 
 ###### Inspired by: Wong (2011) Points of view: Color blindness. _Nature Methods_ 8:441.
+
 
 ## fftSuite
 Provides 3 frequency decompositions of an input signal: FFT, spectrogram, and instantaneous frequency.
