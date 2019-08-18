@@ -5,7 +5,7 @@ Miscellaneous MATLAB functions &amp; scripts
 ### clr2blind()
 Uses 8 colors more differentiable by a colorblind person.
 
-img
+![](https://github.com/davhbrown/matlab-utils/blob/master/img/clr2blind_demo-scale.png "clr2blind colors")
 
 ###### Inspired by: Wong (2011) Points of view: Color blindness. _Nature Methods_ 8:441.
 
